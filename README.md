@@ -16,4 +16,7 @@ Face detection is a computer technology being used in a variety of applications 
 - Forensic Analysis: Face detection in single images is valuable for forensic investigations to identify and analyze individuals in photographs as part of criminal investigations.
 - Visual Content Analysis: Businesses and organizations use single image face detection for demographic analysis, customer behavior studies, and other visual content analysis purposes.
      Face detection with OpenCV serves as a foundational step for various image processing and analysis tasks. Its versatility, accuracy, and adaptability make it a valuable asset for developers and researchers working on projects that require the detection and localization of human faces within static images.
+
  Single image face detection with OpenCV serves as a foundational step for various image processing and analysis tasks. Its versatility, accuracy, and adaptability make it a valuable asset for developers and researchers working on projects that require the detection and localization of human faces within static images.
+
+![Uploading Output.png…]()
